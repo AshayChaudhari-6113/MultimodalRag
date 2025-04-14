@@ -109,3 +109,31 @@ See the [LICENSE](LICENSE) file for more details.
 - **[Streamlit](https://streamlit.io)** – for simplifying interactive UI development  
 - Appreciation to the broader **open-source community** for tools and inspiration that made this project possible
 
+### 🖼️ User Interface Preview
+
+| Upload & Search Sidebar | arXiv Search Results |
+|--------------------------|----------------------|
+| ![Upload Sidebar](./screenshots/upload_sidebar.png) | ![arXiv Results](./screenshots/arxiv_search_results.png) |
+
+| Chat with Assistant | Image Reasoning via Chat |
+|---------------------|--------------------------|
+| ![Chat Interface](./screenshots/chat_interface.png) | ![Image Reasoning](./screenshots/image_reasoning_chat.png) |
+
+## 🤝 Feedback & Contributions
+
+We welcome contributions that improve the usability, functionality, or documentation of this project.
+
+- 💡 Found a bug or want a feature? [Open an issue](https://github.com/your-username/your-repo/issues)
+- 🔧 Want to contribute code? Fork the repo, make changes, and submit a pull request.
+- 📧 Have suggestions or feedback? Feel free to reach out or comment in issues.
+
+> Let's collaborate to make this tool more useful for everyone!
+
+---
+
+### ❤️ Built with Passion by [Ashay Chaudhari](https://www.linkedin.com/in/ashay-chaudhari-47ba61209/)
+
+If you found this project helpful, please ⭐ star the repository and consider sharing it with others.
+
+Stay curious. Keep building. 🚀
+
