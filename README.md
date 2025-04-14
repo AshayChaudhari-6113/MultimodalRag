@@ -123,7 +123,7 @@ See the [LICENSE](LICENSE) file for more details.
 
 We welcome contributions that improve the usability, functionality, or documentation of this project.
 
-- 💡 Found a bug or want a feature? [Open an issue](https://github.com/your-username/your-repo/issues)
+- 💡 Found a bug or want a feature? [Open an issue](https://github.com/AshayChaudhari-6113/MultimodalRag/issues)
 - 🔧 Want to contribute code? Fork the repo, make changes, and submit a pull request.
 - 📧 Have suggestions or feedback? Feel free to reach out or comment in issues.
 
