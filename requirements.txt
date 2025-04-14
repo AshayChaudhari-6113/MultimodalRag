@@ -1,0 +1,6 @@
+arxiv==2.2.0
+langchain==0.3.23
+mistralai==1.6.0
+Pillow==11.2.1
+python-dotenv==1.1.0
+streamlit==1.44.1
